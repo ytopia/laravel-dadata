@@ -4,6 +4,7 @@
     "keywords": ["laravel", "dadata", "autocomplete"],
     "type": "package",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "role": "Company",
